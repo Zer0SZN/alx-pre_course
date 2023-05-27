@@ -1,4 +1,3 @@
 git fetch origin
-git push origin
+git pull origin
 touch up_to_date
-
